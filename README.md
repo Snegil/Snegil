@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm currently learning game programming at a school in Sweden!
+
+> My profile uses:
+
+[DenverCoder1's "Readme Typing SVG"](https://github.com/DenverCoder1/readme-typing-svg)
