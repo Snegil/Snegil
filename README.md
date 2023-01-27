@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&pause=1000&color=0D7600&multiline=true&repeat=false&width=435&height=64&lines=Alfons;Wannabe+game+developer)](https://git.io/typing-svg)
 
 <!--
 **Snegil/Snegil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
