@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 I'm currently learning game programming at a school in Sweden!
 
 ##Skills
+
 WIP
 
 > My profile uses:
