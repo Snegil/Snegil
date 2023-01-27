@@ -19,8 +19,8 @@ I'm currently learning game programming at a school in Sweden!
 
 ## Skills
 
-<img src="https://github.com/Snegil/Snegil/blob/main/Assets/CSharp.svg" alt="CSharp Logo" width="50" title="CSharp"/>
-<img src="https://github.com/Snegil/Snegil/blob/main/Assets/U_ProfileIcon_Alpha_Positive_500x500.png" alt="Unity Logo" width="50" title="Unity"/>
+<img src="https://github.com/Snegil/Snegil/blob/main/Assets/CSharp.svg" alt="CSharp Logo" width="50" title="CSharp" &nbsp/>
+<img src="https://github.com/Snegil/Snegil/blob/main/Assets/U_ProfileIcon_Negative_500x500.png" alt="Unity Logo" width="50" title="Unity"/>
 
 > My profile uses:
 
