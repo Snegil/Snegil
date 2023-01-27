@@ -19,7 +19,8 @@ I'm currently learning game programming at a school in Sweden!
 
 ## Skills
 
-WIP
+<img src="https://github.com/Snegil/Snegil/blob/main/Assets/CSharp.svg" alt="React Logo" width="50" title="React"/>
+<img src="" alt="React Logo" width="50" title="React"/>
 
 > My profile uses:
 
