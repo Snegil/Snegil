@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm currently learning game programming at a school in Sweden!
-
 ## Skills
 
 <img src="https://github.com/Snegil/Snegil/blob/main/Assets/CSharp.svg" alt="CSharp Logo" width="50" title="CSharp"/> &nbsp; 
