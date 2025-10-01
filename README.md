@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 <img src="https://github.com/Snegil/Snegil/blob/main/Assets/CSharp.svg" alt="CSharp Logo" width="50" title="CSharp"/> &nbsp; 
 <img src="https://github.com/Snegil/Snegil/blob/main/Assets/U_ProfileIcon_Negative_500x500.png" alt="Unity Logo" width="50" title="Unity"/>
+<img src="https://github.com/Snegil/Snegil/blob/main/Assets/Logo_Aseprite.png" alt="Aseprite Logo" width="50" title="Aseprite"/>
 
 > My profile uses:
 
