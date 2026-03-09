@@ -1,4 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&pause=1000&color=0D7600&multiline=true&repeat=true&width=435&height=64&lines=Alfons;GAME+DEVELOPER)](https://git.io/typing-svg)
+
 I'm a programmer with ~7 years of programming experience, mainly focused on game development and experimental projects.
 
 ### Interests
