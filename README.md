@@ -1,19 +1,19 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&pause=1000&color=0D7600&multiline=true&repeat=true&width=435&height=64&lines=Alfons;GAME+DEVELOPER)](https://git.io/typing-svg)
+I'm a programmer with ~7 years of programming experience, mainly focused on game development and experimental projects.
 
-<!--
-**Snegil/Snegil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Interests
+ - Game Programming
+ - Procedural Generation
+ - C#, Unity, Electron, Typescript
 
-Here are some ideas to get you started:
+### Current Projects
+- MapGeneration – Procedural map generation using the Drunkard's Walk algorithm.
+- TimeVisual – Porting my Unity project to a desktop application using Electron and TypeScript for cross-platform support.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+- Procedural generation
+- Game systems architecture
+- Electron + TypeScript (TimeVisual-project based on the Unity version)
 
 ## Skills
 
