@@ -18,7 +18,7 @@ I'm a programmer with ~7 years of programming experience, mainly focused on game
 
 ## Skills
 
-<img src="https://github.com/Snegil/Snegil/blob/main/Assets/SVG/Logo-C#.svg" alt="CSharp Logo" width="50" title="CSharp"/> &nbsp; 
+<img src="https://github.com/Snegil/Snegil/blob/main/Assets/SVG/Logo-CSharp.svg" alt="CSharp Logo" width="50" title="CSharp"/> &nbsp; 
 <img src="https://github.com/Snegil/Snegil/blob/main/Assets/SVG/Logo-Unity.svg" alt="Unity Logo" width="50" title="Unity"/> &nbsp; 
 <img src="https://github.com/Snegil/Snegil/blob/main/Assets/SVG/Logo-Aseprite.svg" alt="Aseprite Logo" width="50" title="Aseprite"/> &nbsp; 
 
