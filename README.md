@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&pause=1000&color=0D7600&multiline=true&repeat=true&width=435&height=64&lines=Alfons;GAME+DEVELOPER)](https://git.io/typing-svg)
 
-I'm a programmer with ~7 years of programming experience, mainly focused on game development and experimental projects.
+I'm a programmer with ~7 years of programming experience (primarily in school and in my free time), mainly focused on game development and experimental projects.
 
 ### Interests
  - Game Programming
@@ -13,7 +13,7 @@ I'm a programmer with ~7 years of programming experience, mainly focused on game
 
 ## Currently Learning
 - Procedural generation
-- Game systems architecture
+- Game systems (Incl. Gameplay, Player Controller and more.)
 - Electron + TypeScript (TimeVisual-project based on the Unity version)
 
 ## Skills
