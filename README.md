@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&weight=800&size=25&duration=3000&pause=10000&color=006706&width=435&height=40&lines=Hello+there%2C+I'm+Alfons.)](https://git.io/typing-svg)
+<img width="779" height="1097" alt="bild" src="https://github.com/user-attachments/assets/b7199ce4-08a6-41b7-8852-33f3bd9afbbb" />[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&weight=800&size=25&duration=3000&pause=10000&color=006706&width=435&height=40&lines=Hello+there%2C+I'm+Alfons.)](https://git.io/typing-svg)
 
 I'm a programmer with ~7 years of programming experience (primarily in school and in my free time), mainly focused on game development and experimental projects.
 
@@ -8,7 +8,7 @@ I'm a programmer with ~7 years of programming experience (primarily in school an
  - C#, Unity, Electron, Typescript
 
 ### Current Projects
-- MapGeneration – Procedural map generation using the Drunkard's Walk algorithm.
+- BirdGame - A 3D platformer that has a kiwibird as main character.
 - TimeVisual – Porting my Unity project to a desktop application using Electron and TypeScript for cross-platform support.
 
 ## Currently Learning
